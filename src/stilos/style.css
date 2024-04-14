@@ -1,0 +1,32 @@
+.contener {
+  width: 450px;
+  height: 550px;
+  background-color: orangered;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+  padding: 1px;
+  border: 2px solid black;
+}
+input {
+  width: 250px;
+  height: 40px;
+  text-align: center;
+  justify-content: center;
+  margin: 15px;
+}
+.botao {
+  width: 350px;
+  font-size: 30px;
+  background-color: black;
+  color: #fff;
+}
+.caixa {
+  width: 450px;
+  height: 100px;
+margin: auto;
+
+}
+.caixa p{
+  color: #fff;
+}
